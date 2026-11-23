@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shivam Patel</h1>
 
 <h3 align="center">
-Machine Learning Enthusiast | AI & Computer Vision Developer | Data Analyst 
+AI/ML Engineer | Generative AI | LLMs | Computer Vision
 </h3>
 
 <p align="center">
