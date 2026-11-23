@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Shivam Patel
+<h1 align="center">👋 Hi, I'm Shivam Patel</h1>
 
-### Data Analyst | Machine Learning Enthusiast | AI & Computer Vision Developer
+<h3 align="center">
+  Data Analyst | Machine Learning Enthusiast | AI & Computer Vision Developer
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Data+Analytics+%7C+Python+%7C+SQL;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+AI;Building+Data-Driven+Solutions" />
@@ -17,7 +19,6 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
-
 ---
 
 ## 🚀 About Me
