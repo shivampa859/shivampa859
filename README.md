@@ -1,5 +1,10 @@
 #  About Me:
-<br>Job Preparation Gaining and Improving Skills.<br>Machine Learning, Deep Learning, Computer Vision, and AI-powered real-world applications.<br>Improving model accuracy, deploying ML models, and optimizing YOLO / CNN / NLP-based systems.<br>Advanced Deep Learning, YOLOv8, Model Deployment, and End-to-End AI System Design.<br>Python, Machine Learning, Deep Learning, Computer Vision, YOLO, NLP, Flask, and AI projects.<br>I enjoy turning real-life problems into AI solutions and learning something new every day <br><br><br>
+<br>Continuously learning, building projects, and strengthening my skills for professional growth.<br>
+Exploring Data Analytics through Python, SQL, Power BI, Excel, data visualization, and statistical analysis.<br>
+Passionate about Machine Learning, Deep Learning, Computer Vision, and AI-driven solutions.<br>
+Working with YOLOv8, CNNs, NLP, model optimization, and ML model deployment.<br>
+Building end-to-end projects that transform raw data into meaningful insights and real-world AI applications.<br>
+I enjoy solving real-world problems with technology, exploring new tools, and learning something new every day.
 
 
 ## Socials:
