@@ -74,71 +74,7 @@
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivampa859&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivampa859&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shivampa859&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivampa859&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivampa859&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🚲 Urban Mobility & Bike Demand Analysis
-
-- Data analysis using Python, SQL, Excel and Power BI.
-- Exploratory Data Analysis and data cleaning.
-- Feature engineering and visualization.
-- Business insights from bike-sharing data.
-
-🔗 [View Project on GitHub](https://github.com/shivampa859/urban-mobility-bike-demand-analysis)
-
-### 🖼️ VisionForge – Image Classification
-
-- Deep learning-based image classification project.
-- Utilized CNN/ResNet-based architecture.
-- Image preprocessing and model evaluation.
-- Applied computer vision techniques.
-
-🔗 [Explore My GitHub Repositories](https://github.com/shivampa859?tab=repositories)
-
-### 🎥 Crowd Surveillance System
-
-- Computer vision-based surveillance solution.
-- Object detection and weapon detection.
-- Dataset preparation and annotation using Roboflow.
-- Model training and evaluation using deep learning techniques.
-
-🔗 [Explore My GitHub Repositories](https://github.com/shivampa859?tab=repositories)
-
----
+--
 
 ## 💻 Contribution Calendar
 
