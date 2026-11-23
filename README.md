@@ -29,7 +29,6 @@ Machine Learning Enthusiast | AI & Computer Vision Developer | Data Analyst
 - Building practical projects that solve real-world problems.
 - Continuously learning, experimenting and improving my technical skills.
 
----
 
 ## Tech Stack
 
@@ -61,15 +60,6 @@ Machine Learning Enthusiast | AI & Computer Vision Developer | Data Analyst
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
 
-
-## Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00FFFF/shivampa859" alt="GitHub Contribution Chart" />
-</p>
-
----
-
 ## Repository & Profile Summary
 
 <p align="center">
@@ -86,7 +76,7 @@ Machine Learning Enthusiast | AI & Computer Vision Developer | Data Analyst
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivampa859&theme=tokyonight&utcOffset=5.5" />
 </p>
 
----
+
 
 ## 👀 Profile Visitors
 
@@ -94,7 +84,7 @@ Machine Learning Enthusiast | AI & Computer Vision Developer | Data Analyst
   <img src="https://komarev.com/ghpvc/?username=shivampa859&label=Profile%20Views&color=00FFFF&style=for-the-badge" />
 </p>
 
----
+
 
 <p align="center">
   <i>Building. Learning. Analyzing. Innovating. 🚀</i>
